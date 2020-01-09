@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`A button with type 0 should renders correctly 1`] = `ShallowWrapper {}`;
+
+exports[`A button with type 1 should renders correctly 1`] = `ShallowWrapper {}`;
